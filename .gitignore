@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.coverage
+htmlcov/
+# local state and secrets never belong here
+*.json.tmp
+approvals.json
+.env
+.env.*
